@@ -3,7 +3,7 @@ HackInfinity'23 organized by DCEI
 
 ### Team Details: DeepMinds
 * Pathik Patel
-
+* Manjal Shah
 
 # Real time Bitcoin future price predictor
 
